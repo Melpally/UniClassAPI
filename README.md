@@ -1,5 +1,7 @@
 # UniClassAPI
 A RESTful API in ASP.NET to fulfil the test task for .NET internship.
+Visit this [link](https://uniclassplan.azurewebsites.net/swagger/index.html) for the deployed API: https://uniclassplan.azurewebsites.net/swagger/index.html
+P.S.: The API uses an interactive documentation <mark>in</mark> **Swagger**
 ## Students
 ### Getting the student details
 Returns the details of all users in the database
