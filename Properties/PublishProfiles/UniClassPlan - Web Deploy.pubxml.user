@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAj+43xoFEwky2awyjgSs6wQAAAAACAAAAAAAQZgAAAAEAACAAAAC0L9T1SCRG5MN7/xuk+FL4grqWhmMdTZtRFo2ny1e+FQAAAAAOgAAAAAIAACAAAAAb0jLS53FEKFlPgp4JgxAeK14agQqatJdXsslG+IY36oAAAABfZRo0rWVvjKF2/8oO60jYAjqaHdwmG2rhQq7Rtz18SEPZb+NPj5RK8AVAGtDfpk5A+2TmSinp9blUStIE0N56Z33aWy4VV5YPP5dDPrxBhxaPu6r8ZCQAUhoAlJzHLzfRNT3Y8g3RgvuC6yaLEABE8PE75lINfaM7gArBrVIfqUAAAACW2Fp2R697snQTS4uB948dPgh3AXKaaa2YsI/sOLNHzAdwSwgGwsqKBVFc+2HH6GzYnXwviMF/dGtrpPTIxrI6</EncryptedPassword>
+    <History>True|2023-07-12T00:41:13.6216345Z;True|2023-07-12T05:31:03.8536765+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="UniClass.Data.AppDbContext">
+      <Value>Data Source=restfuldbserver.database.windows.net,1433%3bInitial Catalog=Restful%3bUser ID=afruza%3bPassword=G1lmindis</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
