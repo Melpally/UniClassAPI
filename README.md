@@ -1,10 +1,10 @@
 # UniClassAPI
 A RESTful API in ASP.NET MVC to fulfil the test task for .NET internship. Contains 3 entities, Student, Major and Funding. Student and Major have one-to-many relation and Student and Funding have one-to-one relation and Funding is represented as an enum that denotes the financial situation of the Student (i.e. scholarship, self-financed, etc.)   
 
-Visit this [link](https://uniclassplan.azurewebsites.net/swagger/index.html) for the deployed API: 
+Visit this [link](https://uniclassplan.azurewebsites.net/swagger/index.html) for the deployed API on Azure: 
  https://uniclassplan.azurewebsites.net/swagger/index.html    
  
- P.S.: The API uses an interactive documentation <mark>in</mark> **Swagger**
+ P.S.: The API uses an interactive documentation <mark>in</mark> **Swagger** 
 ## Students
 ### Getting the student details
 Returns the details of all users in the database
