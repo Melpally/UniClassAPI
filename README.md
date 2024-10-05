@@ -3,7 +3,7 @@ A RESTful API in ASP.NET MVC to showcase the Clean Code/Onion structure. Contain
 
 Visit this [link](https://uniclassplan.azurewebsites.net/swagger/index.html) for the deployed API on Azure: 
  https://uniclassplan.azurewebsites.net/swagger/index.html    
- 
+ ## NOTE: the link is disabled to prevent incurring costs
  P.S.: The API uses an interactive documentation <mark>in</mark> **Swagger** 
 ## Students
 ### Getting the student details
